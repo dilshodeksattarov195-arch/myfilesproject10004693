@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producteecrypt",
+        "uuid": 5542433,
+        "checksum": "x99pxt8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
